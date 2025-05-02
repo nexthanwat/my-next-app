@@ -3,13 +3,13 @@ export default function MenuBar() {
     <div className="menu-section">
       <a
         className="menu-item ibm-plex-sans-thai-bold"
-        href="http://localhost:3000/state"
+        href="http://localhost:3000/"
       >
         Home
       </a>
       <a
         className="menu-item ibm-plex-sans-thai-bold"
-        href="http://localhost:3000/state"
+        href="http://localhost:3000/"
       >
         About Me
       </a>
