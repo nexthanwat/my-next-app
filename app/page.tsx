@@ -18,7 +18,7 @@ export default function IndexPage() {
   </div>
   {/*section 2*/}
   <div className="section2-box">
-    <a className="section2-contact-link ibm-plex-sans-thai-bold" href="https://www.facebook.com/thanawat.chantamas">Facbook</a>
+    <a className="section2-contact-link ibm-plex-sans-thai-bold" href="https://www.facebook.com/thanawat.chantamas">Facebook</a>
     <a className="section2-contact-link ibm-plex-sans-thai-bold" href="https://discord.com/channels/@me">Linkdiscord</a>
     <a className="section2-contact-link ibm-plex-sans-thai-bold" href="https://github.com/nexthanwat">GitHub</a>
     {/*section3*/}
