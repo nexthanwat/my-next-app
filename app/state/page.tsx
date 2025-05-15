@@ -8,7 +8,7 @@ export default function StatePage() {
 
   return (
     <div>
-      <MenuBar />
+      <MenuBar page="State" />
       <div className="p-4">
         <h1 className="text-center text-4xl">Switch ไฟ</h1>
         <p className="text-center text-xl">เรียนรู้การ toggle state</p>
